@@ -6,4 +6,4 @@ Vehicle Detection is performed using a Linear SVM classifier that slides over ea
 
 This is combined with a previous project on lane line detection to produce the above video output.
 
-I have written a post explaining the problem and the techniques involved in the solution at https://wordpress.com/post/daviderrington.net/1053.
+
